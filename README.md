@@ -6,8 +6,8 @@
 ## YouTube Video
 
 <p align="center">
-  <a href="https://www.youtube.com/watch?v=vj_h8uQQzfQ" target="_blank">
-    <img src="https://img.youtube.com/vi/vj_h8uQQzfQ/0.jpg" alt="Watch the video" />
+  <a href="https://www.youtube.com/watch?v=JjcpvvuzhZ0" target="_blank">
+    <img src="https://img.youtube.com/vi/JjcpvvuzhZ0/0.jpg" alt="Watch the video" />
   </a>
 </p>
 
